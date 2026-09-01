@@ -1,4 +1,4 @@
-// I will encrypt part of the code (so you don't steal it).
+## I will encrypt part of the code (so you don't steal it).
 
 import ctypes
 import os
