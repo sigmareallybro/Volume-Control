@@ -1,4 +1,4 @@
-## I will encrypt part of the code (so you don't steal it).
+## I don't have the full code, so it's somewhat obfuscated ._.
 
 import ctypes
 import os
